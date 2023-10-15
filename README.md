@@ -10,3 +10,6 @@ Dashboard 3 public link - https://public.tableau.com/views/Book2_16967556178640/
 Story 1 public link - https://public.tableau.com/views/Book2_16967556178640/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 Story 2 public link - https://public.tableau.com/views/Book2_16967556178640/Story2?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+demo video link - https://drive.google.com/file/d/15GqRBDzw543L2LsXYMNZqbd81yGbh8dx/view?usp=drivesdk
